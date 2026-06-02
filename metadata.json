@@ -1,0 +1,6 @@
+{
+  "name": "Movie Reco",
+  "description": "Your ultimate personalized film recommendation and rating analysis companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
